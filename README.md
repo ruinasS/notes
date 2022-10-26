@@ -1,4 +1,5 @@
 # notes/笔记
+![notes-markdown](https://img.shields.io/badge/notes-markdown-blue)
 + 存放需要多端查看笔记
 + 主要以markdown格式
 + 一般在本地修改后上传
