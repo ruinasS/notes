@@ -15,7 +15,7 @@
 
 
 
-@.[toc]
+[toc]
 
 ```markdown
 [toc]
