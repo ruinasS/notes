@@ -15,6 +15,14 @@
 
 
 
+[toc]
+
+```markdown
+[toc]
+```
+
+
+
 # 一级标题
 
 ## 二级标题
@@ -264,7 +272,7 @@ GOOGLE.COM
 
 
 # 代码
-`printf()`函数
+`printf()`函数，行内代码
 
 ```markdown
 `printf()`
