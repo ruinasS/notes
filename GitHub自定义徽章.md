@@ -56,10 +56,10 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 在你的徽章代码后加上`?style=<STYLE>`可定义样式，共有五种样式
 
-![eg3](https://img.shields.io/badge/style-plastic-important?style=plastic)
-![eg4](https://img.shields.io/badge/style-flat-important?style=flat)
-![eg5](https://img.shields.io/badge/style-flat_square-important?style=flat-square)
-![eg6](https://img.shields.io/badge/style-for_the_badge-important?style=for-the-badge)
+![eg3](https://img.shields.io/badge/style-plastic-important?style=plastic)<br>
+![eg4](https://img.shields.io/badge/style-flat-important?style=flat)<br>
+![eg5](https://img.shields.io/badge/style-flat_square-important?style=flat-square)<br>
+![eg6](https://img.shields.io/badge/style-for_the_badge-important?style=for-the-badge)<br>
 ![eg7](https://img.shields.io/badge/style-social-important?style=social)
 
 ```markdown
