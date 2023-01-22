@@ -570,6 +570,8 @@ $$
 
 # 画流程图、时序图(顺序图)、甘特图
 
+具体语法可参考：[Mermaid | Diagramming and charting tool](https://mermaid.js.org/)
+
 1、横向流程图源码格式：
 
 ```mermaid
